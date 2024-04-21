@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Networking & SQL
+- 💬 Ask me about Business Intelligence
+- ⚡ Drink Water!
 
 <!--
 **ffschrattenecker/ffschrattenecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
