@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Networking & SQL
-- 💬 Ask me about Business Intelligence
+
 - ⚡ Drink Water!
 
 <!--
